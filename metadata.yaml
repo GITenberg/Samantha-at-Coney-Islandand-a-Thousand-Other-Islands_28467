@@ -1,0 +1,31 @@
+_repo: Samantha-at-Coney-Islandand-a-Thousand-Other-Islands_28467
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holley, Marietta
+    alias: Josiah Allen's wife
+    birthdate: 1836
+    deathdate: 1926
+    gutenberg_agent_id: '1194'
+    url: http://www.gutenberg.org/2009/agents/1194
+    wikipedia: http://en.wikipedia.org/wiki/Marietta_Holley
+description: ''
+gutenberg_issued: '2009-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28467'
+  lccn: '11027297'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Coney Island (New York, N.Y.) -- Fiction'
+- !lcc 'PS'
+title: 'Samantha at Coney Island
+
+  and a Thousand Other Islands'
+url: http://www.gutenberg.org/ebooks/28467
