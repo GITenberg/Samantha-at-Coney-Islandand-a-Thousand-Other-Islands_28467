@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1194
     wikipedia: http://en.wikipedia.org/wiki/Marietta_Holley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28467#Samantha-at-Coney-Islandand-a-Thousand-Other-Islands
 gutenberg_issued: '2009-04-01'
 gutenberg_type: Text
 identifiers:
